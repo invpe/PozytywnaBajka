@@ -5,3 +5,8 @@
 This repo serves as a reference to the productions i've made for iOS in 2011/2012 known as "PozytywnaBajka", which were interactive games (including books) made with a proprietary game engine called [stravaganza](https://github.com/invpe/Stravaganza).
 As i try to refactor, update and publish them once more - i keep this repo for managing certain requirements that are part of the publishing process.
 
+# AppStore
+
+Find apps on the appstore
+
+[Dynia](https://apps.apple.com/pl/app/dynia/id6737982100?l=pl)
