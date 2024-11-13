@@ -9,4 +9,6 @@ As i try to refactor, update and publish them once more - i keep this repo for m
 
 Find apps on the appstore
 
-[Dynia](https://apps.apple.com/pl/app/dynia/id6737982100?l=pl)
+* [Dynia](https://apps.apple.com/pl/app/dynia/id6737982100?l=pl)
+* [Bałwanek](https://apps.apple.com/app/bałwanek/id6738047467)
+  
